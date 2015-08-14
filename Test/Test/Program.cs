@@ -8,6 +8,7 @@ namespace Test
         {
             WriteLine("Hello world");
             WriteLine("Hola mundo");
+            WriteLine("Pushing branch");
             ReadLine();
         }
     }
